@@ -1,5 +1,6 @@
 软件学院 软件工程 刘响 82339308
 
+https://github.com/LX555555/LxDataMining/blob/main/README.md
 # 注册流程
 已有账号注册图片均来自网络
 
